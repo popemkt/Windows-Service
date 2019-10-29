@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\hoanggnguyen\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hoanggnguyen\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\hoanggnguyen\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service DBReadService...
+Service DBReadService has been successfully installed.
+Creating EventLog source DBReadService in log Application...
+Committing assembly 'C:\Users\hoanggnguyen\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hoanggnguyen\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\hoanggnguyen\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
