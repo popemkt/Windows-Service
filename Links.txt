@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/windows/win32/services/service-status-transitions
+https://en.wikipedia.org/wiki/Windows_service
+https://docs.microsoft.com/en-us/windows/win32/winstation/window-stations
+https://docs.microsoft.com/en-us/dotnet/framework/windows-services/introduction-to-windows-service-applications
+https://dzone.com/articles/create-windows-services-in-c
+https://stackify.com/what-are-windows-services/
+Edraw
